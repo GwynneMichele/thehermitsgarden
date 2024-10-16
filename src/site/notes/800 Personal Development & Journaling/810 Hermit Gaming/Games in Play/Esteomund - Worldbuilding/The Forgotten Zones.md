@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/800-personal-development-and-journaling/810-hermit-gaming/games-in-play/esteomund-worldbuilding/the-forgotten-zones/"}
+---
+
+The Forgotten Zones are a large chunk of land between [[800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Viclejan\|800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Viclejan]] and [[800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Chaconor\|800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Chaconor]] rendered a wasteland during [[800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/The War Between Viclejan and Chaconor\|800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/The War Between Viclejan and Chaconor]].  Trade caravans have some fixed routes through The Forgotten Zones, but most of the massive region remains unmapped, with ancient relics from before The War buried in places long covered by the sands of time.

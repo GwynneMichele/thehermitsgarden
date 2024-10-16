@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/800-personal-development-and-journaling/810-hermit-gaming/games-in-play/esteomund-worldbuilding/constructs/"}
+---
+
+Mechanical humanoids who run on [[Crystal Power\|Crystal Power]], an innovation of the [[800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Gnomes\|800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Gnomes]] and a source of great debate as some are starting to show signs of sentience.  [[800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Trixie Goldspark\|800 Personal Development & Journaling/810 Hermit Gaming/Games in Play/Esteomund - Worldbuilding/Trixie Goldspark]] is sympathetic with the [[Society for the Recognization of Construct Independence\|Society for the Recognization of Construct Independence]].
