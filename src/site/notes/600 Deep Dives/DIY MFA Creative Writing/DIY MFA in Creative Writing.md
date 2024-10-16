@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-deep-dives/diy-mfa-creative-writing/diy-mfa-in-creative-writing/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/600-deep-dives/diy-mfa-creative-writing/diy-mfa-in-creative-writing/"}
 ---
 
 I'm a writer.
