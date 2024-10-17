@@ -4,7 +4,7 @@
 
 ### **Month 1: Character & Voice**
 
-1. **Character Sketch**  
+1. **[[600 Deep Dives/DIY MFA Creative Writing/DIY MFA Exercises/Character Sketch.Echo\|Character Sketch.Echo]]**  
     _Objective_: Develop a deep understanding of a character’s background, motivations, and voice.
     
     - _Task_: Write a 500-1000 word character sketch of someone who would live in one of your solarpunk worlds. Explore their desires, fears, daily life, and how they relate to their environment. Be detailed—what do they carry in their pockets? How do they speak?
