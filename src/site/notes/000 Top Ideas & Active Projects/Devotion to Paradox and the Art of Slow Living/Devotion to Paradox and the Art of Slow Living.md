@@ -10,11 +10,13 @@ The I had it create an outline.
 
 I liked it so much, I decided to put it here so I can work on building on it over time!
 
+[ChatGPT Book Outline](https://chatgpt.com/share/67144421-3f58-8012-83bd-0a4665a37c83)
+
 # Outline for *The Curious Hermit: Devotion to Paradox and the Art of Slow Living*
 
 ---
 
-## Introduction: The Curious Hermit’s Path
+## [[000 Top Ideas & Active Projects/Devotion to Paradox and the Art of Slow Living/0 Introduction\|Introduction]]: The Curious Hermit’s Path
 - Overview of your life philosophy: devotion to Paradox, Goddess of Everything and Nothing.
 - The role of curiosity in self-discovery and embracing contradictions.
 - Introduction to the eight vows and how they guide your everyday existence.
