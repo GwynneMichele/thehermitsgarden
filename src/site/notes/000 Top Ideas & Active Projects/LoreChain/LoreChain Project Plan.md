@@ -4,7 +4,7 @@
 
 I am not a developer.  I'm a newbie with rusty programming skills.  But I know enough to be dangerous with some AI assistance.
 
-This project plan, drafted by ChatGPT for me to follow to achieve my goal of building a platform where I can create worlds, other people can write stories and create art for them, and we can all be rewarded for it.
+This project plan was drafted by ChatGPT for me to follow to achieve my goal of building a platform where I can create worlds, other people can write stories and create art for them, and we can all be rewarded for it.
 
 Bootstrapping the whole way, I have no budget, but I'll seek grants/retrogrants in the coming months as I make more progress to continue funding development of this.
 ### **LoreChain Project Plan
