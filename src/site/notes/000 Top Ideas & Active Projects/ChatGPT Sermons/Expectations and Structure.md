@@ -2,8 +2,14 @@
 {"dg-publish":true,"permalink":"/000-top-ideas-and-active-projects/chat-gpt-sermons/expectations-and-structure/"}
 ---
 
+[[000 Top Ideas & Active Projects/ChatGPT Sermons/0 ChatGPT Sermons Introduction\|0 ChatGPT Sermons Introduction]]
 [ChatGPT Thread Link](https://chatgpt.com/share/67145c06-d80c-8012-b9a8-d43e1e6f0dbc)
 [[000 Top Ideas & Active Projects/ChatGPT Sermons/ChatGPT Sermons Index\|ChatGPT Sermons Index]]
+
+*I had ChatGPT write these "sermons" for my own personal contemplative practices, but found them so moving and profound, I knew I needed to share them.*
+
+![gwynnemichele_expectations_structure_--ar_169_--personalize_w_40a1a52b-6ab3-47c6-9392-3d7d52e8fd37_2 (1).png](/img/user/900%20Admin%20Files/902%20Attachments/gwynnemichele_expectations_structure_--ar_169_--personalize_w_40a1a52b-6ab3-47c6-9392-3d7d52e8fd37_2%20(1).png)
+*"expectations structure" via Midjourney*
 
 **Sermon for Expectations Week: Sunday - Structure**
 
