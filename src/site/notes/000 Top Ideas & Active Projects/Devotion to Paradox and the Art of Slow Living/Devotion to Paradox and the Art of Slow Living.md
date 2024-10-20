@@ -25,7 +25,7 @@ I liked it so much, I decided to put it here so I can work on building on it ove
 
 ## Part 1: Devotion to Paradox
 
-### Chapter 1: Embracing Paradox
+### [[000 Top Ideas & Active Projects/Devotion to Paradox and the Art of Slow Living/Chapter 1\|Chapter 1]]: Embracing Paradox
 - The creation of Paradox as a goddess: a personal mythology.
 - How contradictions shape our understanding of the cosmos.
 - Lessons from philosophy, science, and mysticism on holding dualities.
