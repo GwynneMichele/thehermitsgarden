@@ -4,7 +4,7 @@
 
 Inspired by a Reddit post, I asked ChatGPT to give me a book title and subtitle based on what it knows about me and create a book cover for it.
 
-![Pasted image 20241019185006.png](/img/user/Pasted%20image%2020241019185006.png)
+![Pasted image 20241019185006.png](/img/user/900%20Admin%20Files/902%20Attachments/Pasted%20image%2020241019185006.png)
 
 The I had it create an outline.
 

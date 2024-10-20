@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/000-top-ideas-and-active-projects/lore-chain/lore-chain/"}
 ---
 
-![Pasted image 20241018131946.png](/img/user/Pasted%20image%2020241018131946.png)
+![Pasted image 20241018131946.png](/img/user/900%20Admin%20Files/902%20Attachments/Pasted%20image%2020241018131946.png)
 # **Welcome to LoreChain**
 
 **LoreChain** is my solo "Learning in Public" project, designed to bring a decentralized platform to the world of fiction and collaborative storytelling.
