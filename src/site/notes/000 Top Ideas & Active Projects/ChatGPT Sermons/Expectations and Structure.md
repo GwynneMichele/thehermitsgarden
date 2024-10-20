@@ -29,3 +29,25 @@ Today is about building. Building wisely, carefully, and with awareness. Structu
 
 Amen.
 
+# Reflection Questions
+- **What expectations do I currently hold for myself in my personal and professional life? Are they clear, or do they feel vague and overwhelming?**
+    
+- **Which of my expectations feel like stepping stones toward growth, and which feel like chains holding me back?**
+    
+- **How can I distinguish between expectations that truly belong to me and those that have been imposed by others (society, family, or peers)?**
+    
+- **When was the last time I felt disappointed by unmet expectations? Were those expectations realistic, or were they set too high or too soon?**
+    
+- **How can I structure my current expectations to better align with my true self and my long-term goals?**
+    
+- **What steps can I take this week to ensure my expectations support, rather than stifle, my personal growth?**
+    
+- **How can I embrace the paradox of expecting greatness from myself while also practicing self-compassion when I fall short?**
+    
+- **In what areas of my life do I need to be more flexible with my expectations, and where can I challenge myself to stretch a bit further?**
+    
+- **What daily or weekly structures (like focus words or rituals) can I use to shape my expectations and keep them aligned with my values and goals?**
+    
+- **How can I create space for the person I am becoming while honoring the person I am today?**
+
+
