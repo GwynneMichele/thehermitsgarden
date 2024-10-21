@@ -16,5 +16,7 @@
 ## Desires Week
 ## Other
 [[000 Top Ideas & Active Projects/ChatGPT Sermons/My Word Algorithm Daily Sermons/10.19.2024 Saturday. Identity Service Consistency Boundaries Slow\|Saturday, October 19, 2024 - Identity Service Consistency Boundaries Slow]]
+[[000 Top Ideas & Active Projects/ChatGPT Sermons/My Word Algorithm Daily Sermons/10.20.2024 Sunday. Identity Service Consistency Expectations Structure\|Sunday, October 20, 2024 - Identity Service Consistency Expectations Structure]]
+
 
 
