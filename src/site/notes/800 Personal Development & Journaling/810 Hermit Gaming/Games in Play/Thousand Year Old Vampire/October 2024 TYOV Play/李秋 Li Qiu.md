@@ -20,9 +20,9 @@ The first time I met Arash, I bought a map from him of lands I'd never even hear
 ## Memory 5
 The screams woke me up.   I froze.  I swore I'd never be afraid like that night father's came was attacked, but what could make the men scream like that?  He seemed surprised when he entered the tent and saw me sitting there alone.  I still don't know why he let me live.  If you could call this cursed existence living.
 # Skills
-- Negotiation and Trade
-- Cultural Adaptability
-- Survival Skills
+- [ ] Negotiation and Trade
+- [x] Cultural Adaptability ✅ 2024-10-25
+- [ ] Survival Skills
 # Resources
 - Silk and Spices
 - A Family Heirloom (Jade Pendant from her mother)
@@ -57,5 +57,6 @@ Prompt 3. *A loved one discovers your condition and works to help you. Create a 
 It was only a matter of time before I would cross paths with 爸爸 (father). I'd told him my plans to leave, but didn't know if he'd heard about the camp slaughter.  He had.  He'd heard rumors of my survival as well.  He'd been told storied for years of the ones who haunted the night.  He gave me a tent.  I'd been traveling without shelter.  I didn't need it.  But I was touched that he still cared even knowing what I am.
 
 Prompt 4. *You are exposed and flee to a neighboring region. Lose any stationary Resources. Check a Skill. A mortal flees with you. What new name do you adopt among these strangers?*
+I flee to Greece.  Maybe after many years have passed, I can return to my home land, but for now, my face is too well known.  Arvand flees with me.  I don't understand why he's so loyal to me.  I worry.  He's aging.  But he refuses to allow me to turn him.  I don't want to lose him.  Greece is so different from home.  People are people everywhere, they all have that underlying coppery twinge to them, but in a way, my foreignness keeps me safer.  I'm already so different from the people of this land, they don't investigate deeper and see how truly different I am.   I learn the language quickly.
 
 
