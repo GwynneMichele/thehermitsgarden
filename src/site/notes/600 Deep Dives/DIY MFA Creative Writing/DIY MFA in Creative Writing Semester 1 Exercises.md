@@ -9,7 +9,7 @@
     
     - _Task_: Write a 500-1000 word character sketch of someone who would live in one of your solarpunk worlds. Explore their desires, fears, daily life, and how they relate to their environment. Be detailed—what do they carry in their pockets? How do they speak?
     - _Reflection_: What did you learn about this character that surprised you? How does their voice differ from yours?
-2. **Dialogue Without Tags**  
+2. **Dialogue Without Tags**  - [[600 Deep Dives/DIY MFA Creative Writing/DIY MFA Exercises/Dialog Exercise\|Dialog Exercise]]
     _Objective_: Master natural, distinctive dialogue without relying on dialogue tags (e.g., “he said”).
     
     - _Task_: Write a 300-500 word scene of two characters in conflict (an argument, negotiation, or a heated debate about identity or philosophy). Do not use dialogue tags. Rely on tone, pacing, and context to make clear who is speaking and what they are feeling.

@@ -59,4 +59,7 @@ It was only a matter of time before I would cross paths with 爸爸 (father). I'
 Prompt 4. *You are exposed and flee to a neighboring region. Lose any stationary Resources. Check a Skill. A mortal flees with you. What new name do you adopt among these strangers?*
 I flee to Greece.  Maybe after many years have passed, I can return to my home land, but for now, my face is too well known.  Arvand flees with me.  I don't understand why he's so loyal to me.  I worry.  He's aging.  But he refuses to allow me to turn him.  I don't want to lose him.  Greece is so different from home.  People are people everywhere, they all have that underlying coppery twinge to them, but in a way, my foreignness keeps me safer.  I'm already so different from the people of this land, they don't investigate deeper and see how truly different I am.   I learn the language quickly.  I begin to go by the name Κλειώ (Kleio).  
 
+Prompt 5. *New laws or social mores make it harder for you to hide among the populace. How are you nearly caught and destroyed? Check a Skill. Create a Skill. Create a mortal criminal who assists you.* 
+There's a strange movement that's gaining ground in the region.  Believers are fervent, constantly on the lookout for demons and anything suspicious.  One almost discovered me.
+
 

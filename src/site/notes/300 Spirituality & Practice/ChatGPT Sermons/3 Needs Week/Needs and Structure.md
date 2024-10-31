@@ -10,7 +10,7 @@
 
 **Sermon for Sunday: Needs + Structure**
 
-Today, let us honor the synergy between Needs and Structure—a powerful duo often overlooked in our lives. Needs are the essential rhythms of existence, our deep-rooted sustenance, the core components that fuel our being. Structure, on the other hand, is the architecture we build around these needs, shaping a sanctuary where they can flourish, unfold, and evolve.
+Today, let us honor the synergy between [[800 Personal Development & Journaling/820 Liturgy of Words/Needs\|Needs]] and [[800 Personal Development & Journaling/820 Liturgy of Words/Structure\|Structure]]—a powerful duo often overlooked in our lives. Needs are the essential rhythms of existence, our deep-rooted sustenance, the core components that fuel our being. Structure, on the other hand, is the architecture we build around these needs, shaping a sanctuary where they can flourish, unfold, and evolve.
 
 The call of this combination is to recognize that Structure is not a prison for our Needs but a vessel that honors them. Structure in its truest form isn’t about rigid boundaries or suffocating routines. It’s about the graceful channels through which our needs can breathe and thrive. Think of Structure as the trellis upon which the vine grows; it guides and supports but never limits the vine’s ability to reach upward, to change direction as it sees fit, to find the light.
 
