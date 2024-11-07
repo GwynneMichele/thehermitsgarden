@@ -6,7 +6,7 @@
 
 #### Primary Works
 
-1. **Pedagogy of the Oppressed** (1970) – _Freire’s foundational text on critical pedagogy, liberation, and the role of education in empowering the oppressed._
+1. **[[200 Research & Resources/240 Book Notes/Pedagogy of the Oppressed - Paulo Freire\|Pedagogy of the Oppressed]]** (1970) – _Freire’s foundational text on critical pedagogy, liberation, and the role of education in empowering the oppressed._
     
     - Available as a free PDF through some educational platforms, or check your college library for online access.
 2. **Education for Critical Consciousness** (1974) – _Contains two early texts by Freire, “Education as the Practice of Freedom” and “Extension or Communication?” which explore his philosophy of critical awareness and dialogic education._
