@@ -6,9 +6,9 @@ Philosophy isn't just about thinking about ideas, it's also about applying those
 
 The core question of philosophy is, "How do I live a good life?"  All other questions derive from that.  What is a good life?  What does it mean to "live"?  And it just spirals out from there into trying to understand reality and self and the way those two intertwine and affect each other.
 
-I got part way into chapter 1 of [[200 Research & Resources/220 Random Atomic Notes/Paulo Freire\|Paulo Freire]]'s [[200 Research & Resources/240 Book Notes/Pedagogy of the Oppressed - Paulo Freire\|Pedagogy of the Oppressed]] and immediately realized just how much of my *own* paternalism I still need to pack - and will likely need to work on keeping in check for the rest of my life.
+I got part way into chapter 1 of [[200 Research Resources/220 Random Atomic Notes/Paulo Freire\|Paulo Freire]]'s [[200 Research Resources/240 Book Notes/Pedagogy of the Oppressed - Paulo Freire\|Pedagogy of the Oppressed]] and immediately realized just how much of my *own* paternalism I still need to pack - and will likely need to work on keeping in check for the rest of my life.
 
-I asked [[200 Research & Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] to generate some reflection questions on that for me so that I can use them for journaling.  Not all at once, and I don't even *have* to write anything about them at all, just reading them and pondering them, holding them in my awareness begins that weird sort of magic humans can do to themselves that results in self-transformation.
+I asked [[200 Research Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] to generate some reflection questions on that for me so that I can use them for journaling.  Not all at once, and I don't even *have* to write anything about them at all, just reading them and pondering them, holding them in my awareness begins that weird sort of magic humans can do to themselves that results in self-transformation.
 
 As I continue to make my way through this [[600 Deep Dives/Curious Dialogues/Welcome to Curious Dialogues\|Curious Dialogues]] series, I will very likely uncover more conditioned aspects of myself that I need to unpack and analyze.  Some will be okay to keep.  Some will need to be revised.  Many will need to be process.
 

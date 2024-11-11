@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/000-top-ideas-and-active-projects/devotion-to-paradox-and-the-art-of-slow-living/0-introduction/"}
 ---
 
-To give myself some structure as I work on whatever this is going to become, I had [[200 Research & Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] give me questions for each section of the outline.  These will make great reflection questions, helping me to clarify things both for myself and anyone who happens to be reading.
+To give myself some structure as I work on whatever this is going to become, I had [[200 Research Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] give me questions for each section of the outline.  These will make great reflection questions, helping me to clarify things both for myself and anyone who happens to be reading.
 ## **Introduction: The Curious Hermit’s Path**
 
 ### **1. Overview of your life philosophy: devotion to Paradox, Goddess of Everything and Nothing**

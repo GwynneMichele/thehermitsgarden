@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/300-spirituality-and-practice/lectio-divina-meditations/on-focus-and-reflection-lectio-divina-meditation/"}
 ---
 
-Lectio Divina is a contemplative practice focused on reading.  Originally developed by Christian monks for reading the Bible, I - a chaos nun - apply it to a variety of texts from other spiritual texts to fiction and AI generated texts, such as this Lection Divina Meditation created by [[200 Research & Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]].
+Lectio Divina is a contemplative practice focused on reading.  Originally developed by Christian monks for reading the Bible, I - a chaos nun - apply it to a variety of texts from other spiritual texts to fiction and AI generated texts, such as this Lection Divina Meditation created by [[200 Research Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]].
 
-![Pasted image 20241031184720.png](/img/user/Pasted%20image%2020241031184720.png)
+![Pasted image 20241031184720.png](/img/user/900%20Admin%20Files/902%20Attachments/Pasted%20image%2020241031184720.png)
 ### Lectio Divina Meditation: On Focus and Reflection
 
 ---

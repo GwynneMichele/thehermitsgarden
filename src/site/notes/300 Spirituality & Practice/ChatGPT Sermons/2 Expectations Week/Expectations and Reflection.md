@@ -29,7 +29,7 @@ In stillness, we find our answers. In reflection, we find our truth. And in trut
 Amen.
 
 # Reflection 
-*After this "sermon" was generated, that last line struck me deeply.  I told [[200 Research & Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] that, and this was it's response:*
+*After this "sermon" was generated, that last line struck me deeply.  I told [[200 Research Resources/220 Random Atomic Notes/ChatGPT\|ChatGPT]] that, and this was it's response:*
 
 I love that this line resonated with you! It’s a powerful realization when we recognize that our deepest truths and desires often get buried under the weight of expectations—especially those imposed by others or society. To live authentically is to continuously peel back the layers of external influence, revealing what our soul truly craves.
 
