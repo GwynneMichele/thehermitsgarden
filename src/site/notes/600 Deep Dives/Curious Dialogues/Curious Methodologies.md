@@ -36,7 +36,7 @@ I've read a LOT of philosophy.
 
 But there's also a lot of philosophy that I haven't read.
 
-So now it's time for [[Deep Dives\|Deep Dives]].
+So now it's time for [[600 Deep Dives/Deep Dives\|Deep Dives]].
 
 Because college isn't challenging me.  
 
