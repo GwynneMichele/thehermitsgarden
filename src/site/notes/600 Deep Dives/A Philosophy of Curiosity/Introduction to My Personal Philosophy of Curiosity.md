@@ -4,7 +4,7 @@
 
 I go by The Curious Hermit on social media.
 
-Curiosity is core to my identity, so much so that I was a bit stunned it had never occurred to me too explore a "philosophy of curiosity" until it came up in a content brainstorming session with ChatGPT.
+Curiosity is core to my identity, so much so that I was a bit stunned it had never occurred to me to explore a "philosophy of curiosity" until it came up in a content brainstorming session with ChatGPT.
 
 On social media, I've built an audience on multiple platforms through conversational content mostly focused on just talking about my life and what interests me.
 
@@ -22,7 +22,7 @@ A lifelong task.
 
 So I'm exploring Philosophy of Curiosity.
 
-There's even a book [[The Philosophy of Curiosity\|The Philosophy of Curiosity]] that I snagged through the University library research access as soon as I learned about it.
+There's even a book [[inanPhilosophyCuriosity2012\|The Philosophy of Curiosity]] that I snagged through the University library research access as soon as I learned about it.
 
 That's what this [[600 Deep Dives/Deep Dives\|Deep Dive]] series is about.
 

@@ -5,6 +5,7 @@
 [[600 Deep Dives/A Philosophy of Curiosity/Introduction to My Personal Philosophy of Curiosity\|Introduction to My Personal Philosophy of Curiosity]]
 [[600 Deep Dives/Curious Dialogues/Welcome to Curious Dialogues\|Welcome to Curious Dialogues]]
 [[600 Deep Dives/DIY MFA Creative Writing/DIY MFA in Creative Writing\|DIY MFA in Creative Writing]]
+[[600 Deep Dives/Contemplative Philosophy/How Do I Live A Good Life\|How Do I Live A Good Life]]
 
 The list above is my currently active Deep Dives.
 
