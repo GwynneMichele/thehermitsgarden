@@ -4,7 +4,7 @@
 
 ![Pasted image 20241115190241.png](/img/user/Pasted%20image%2020241115190241.png)
 # Some Rambling Thoughts To Be Revisited From Time To Time
-One of my favorite things about reading philosophy - and other topics - is those moments where something I've experience or puzzled out myself gets put into words by another.
+One of my favorite things about reading philosophy - and other topics - is those moments where something I've experienced or puzzled out myself gets put into words by another.
 
 I learned about the concept of [[Hermeneutic Injustice\|Hermeneutic Injustice]] in a Disability Studies philosophy class.  This is the idea that because we can't express our experience until we have the words to label our experience, we cannot fully communicate with others, or with ourselves.  This is why getting that [[Autism\|Autism]] or [[900 Admin Files/990 Old Vaults/The Tome/90 Attachments and Resources/98 Definition Notes/ADHD\|ADHD]] diagnosis is so very important for so many people.  Having a [[label\|label]] contextualizes our experience - we're no longer alone in our "weirdness," there are others like us, who have similar experience, and who we can relate to.
 
@@ -97,3 +97,43 @@ When you start to ask that question, all sorts of other questions arise from tha
 Make philosophy seem lofty and out-of-touch so only those whose curiosity couldn't be stamped out pursue it.
 
 Keep people from being able to identify their life conditions, and you keep them alienated and participating in the numbing of consumer culture.
+
+# Contemplative Philosophy 
+It seems a bit of a tautology, right?
+
+Thinking thinking?  Really?
+
+But it's more about the approach to philosophy.
+
+**Slow.**
+
+Savoring the words and ideas, turning them over in your head.
+
+Not to write an academic paper, not to get a grade, but to understand, to discern, and to internalize that which you determine to be worth internalizing.
+
+"Contemplative" as in the *monastic practices* that fall under that label.
+
+*Lectio Divina* mostly, modified for reading philosophical texts through varying approaches and mental states, unlocking the different layers from analytical to intuitive and everything between.  Though if you're digging into some [[Aesthetic Philosophy\|Aesthetic Philosophy]], *Beholding* is a good one.
+
+I learned these from Christian monastic traditions - after having come to the conclusion that none of the pagan/neopagan traditions were for me, and that most were appropriative, I crafted my own path, polytheist in nature, working with some "old" deities and some made up ones, but with the monastic traditions of my cultural and actual ancestors (I've got two Catholic saints in my ancestry).  Western European Christianity stole a whole bunch of practices from the European traditions it sought to stamp out, so I yoinked some of their practices to work with those old deities WEC would have liked us to forget ever existed.
+
+My theology is complex and something I'm still sorting out - I'm a monist, I think we're the Universe experiencing itself and trying to figure out what it wants to be.  I'm not entirely sure I believe in the objective reality of deities, but I do know that playing with them in your own personal subjective reality leads to very interesting results.
+
+Even when you make the deity up.
+
+But that's a bit of a tangent for another note...
+
+I apply those contemplative practices not just to theological sorts of things - it's great for reading the myths of a particular deity whose lessons you want to more deeply explore - but also to pretty much everything I want to go deeper with.
+
+*Contemplation* isn't just "thinking" it's thinking with purpose, in a meditative state, with the aim of allowing yourself to be moved by the words, see what they're saying to you in that moment.
+
+There's a few stages - those vary by the source describing to the practice, and in a religious context, begins by entering a state of prayer that is more meditation than begging a deity for favors.  So for secular texts, drop the prayer part, or create a secular prayer for yourself, but get into that meditative state however it is that you do that.
+
+Then you read the passage/book.  Don't linger too much, this first round, you're taking in the text as a whole, getting that full context.
+
+Then you read again.  This time, you do linger.  What phrases stand out to you the most?  What moves you?  What repulses you?  This isn't an analytical look at the passage, it's emotion and intuition.  What does it make you feel?
+
+And then you read again.  This time, you do that analysis.  Analyze the text, apply various frameworks to that analysis, but also analyze those feelings more deeply.  You marked that quote, why?  And so on.
+
+
+
