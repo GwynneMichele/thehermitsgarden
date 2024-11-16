@@ -139,5 +139,30 @@ And then you read again.  This time, you do that analysis.  Analyze the text, ap
 
 Then, as you finish that last reading, you keep contemplating it.  Keep letting it spark new questions, new ideas, churn away inside of you, transforming you.
 
+Maybe those ideas will turn into something tangible.  Maybe you'll decide to write an essay or create a podcast.
+
+Or maybe they'll just simmer inside of you, slowly shifting your perspectives until your entire life has changed.
+
+There's no end goal with contemplative practices.
+
+Transformation is eternal, evolution never ends.
+
+# The Practice of Cultivating Critical Consciousness
+The texts you choose are important.
+
+What you get out of the practice will vary greatly depending on what it is that you're consuming.
+
+You're opening yourself up to transformation, and that puts you in a vulnerable position.
+
+It also makes it an effective practice for cultivating [[critical consciousness\|critical consciousness]], and the ability to sit with the discomfort that can often come with becoming a critical thinker aware of the reality of the state of the society we live in.  I've applied the practices to my own personal anti-racist work, reading the works of Black authors with the same sacred approach to learn from them, and to unpack the white supremacy I was conditioned into from birth.  This is an ongoing process, a work that will never be done.
+
+I apply it to reading all  sorts of philosophical texts, and I'll often come back to the same texts after several years - reading Descartes in your 40s hits different than reading him in your late teens/20s.  He also hits different when you've studied the medieval mystics and were inspired by Jesuit methodologies in the intervening years, and you discover he cribbed his most famous thought experiment and conclusion from a nun, and his methodology was heavily influenced by the Jesuit education he had.
+
+I'm currently using the method to read [[200 Research Resources/220 Random Atomic Notes/Paulo Freire\|Paulo Freire]]'s [[200 Research Resources/240 Book Notes/Pedagogy of the Oppressed - Paulo Freire\|Pedagogy of the Oppressed]].
+
+It's a slow process.  Especially when you're reading full books.  I will usually focus on one chapter or subsection of a chapter per session, spending time savoring the ideas before moving onto the next.  
+
+I'll often be working my way through multiple texts in parallel -  the mashing of ideas that comes from this is brilliant.  Marx+Philosophy of Curiosity+Pedagogy of the Oppressed is my current combo, and let me tell you, it is doing things to my brain that are wonderful.
+
 
 
