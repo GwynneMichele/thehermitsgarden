@@ -127,6 +127,8 @@ I apply those contemplative practices not just to theological sorts of things - 
 
 *Contemplation* isn't just "thinking" it's thinking with purpose, in a meditative state, with the aim of allowing yourself to be moved by the words, see what they're saying to you in that moment.
 
+It's an approach where you treat the words you're reading as if they are sacred.
+
 There's a few stages - those vary by the source describing to the practice, and in a religious context, begins by entering a state of prayer that is more meditation than begging a deity for favors.  So for secular texts, drop the prayer part, or create a secular prayer for yourself, but get into that meditative state however it is that you do that.
 
 Then you read the passage/book.  Don't linger too much, this first round, you're taking in the text as a whole, getting that full context.
@@ -134,6 +136,8 @@ Then you read the passage/book.  Don't linger too much, this first round, you're
 Then you read again.  This time, you do linger.  What phrases stand out to you the most?  What moves you?  What repulses you?  This isn't an analytical look at the passage, it's emotion and intuition.  What does it make you feel?
 
 And then you read again.  This time, you do that analysis.  Analyze the text, apply various frameworks to that analysis, but also analyze those feelings more deeply.  You marked that quote, why?  And so on.
+
+Then, as you finish that last reading, you keep contemplating it.  Keep letting it spark new questions, new ideas, churn away inside of you, transforming you.
 
 
 
