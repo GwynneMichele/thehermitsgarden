@@ -31,3 +31,9 @@ I don't know how long this series is going to be - I've got 17 questions to expl
 *I'm at a stage in my life where I'm figuring out what I want to do next with my life.*  And that includes a big re-evaluation of my beliefs.  Middle-age seems to be a good time for that - Descartes did so when he was around the same age I am.  Picked apart all of his beliefs, came to the conclusion the only thing he could be certain of was his own existence as a thinking mind, and then turned around and ignored his own epistemology trying to prove the existence of an all-knowing, all-good God.
 
 *My goal here is to bring the lofty ideals and theories of philosophy and spirituality back down to the "real" world.*  I've got a knack for connecting esoteric ideas with pragmatic insights and actions.  I have an ability to intuitively grasp even the most complex ideas.  My weak point is critical analysis, so another goal of this series is to improve my critical analysis, while also distilling the practical, actionable aspects of the various philosophies and spiritual traditions that I'll explore.
+
+*I'm not new to philosophy.*  I started my philosophy degree almost 20 years ago, and paused about halfway through when life went sideways on me.  In the meantime, I spent most of my time consuming as much information as I could, including a whole lot of reading philosophy stuff.
+
+*I didn't just read philosophy, I practiced it.*  Not in the academic way of critiquing and expanding on various philosophical topics, but taking the pragmatic actions that various philosophers suggest and applying them to my life to see what happens.
+
+Which is why, when I discovered [[Cognitive Behavioral Therapy\|Cognitive Behavioral Therapy]] (CBT) a number of years ago, I absolutely cackled because so much of CBT is derived from [[Stoic\|Stoic]] thinking, which has lots of overlaps with [[Buddhism\|Buddhism]]. 
